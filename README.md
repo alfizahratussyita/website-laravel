@@ -4,7 +4,7 @@ LARASCHOOL adalah aplikasi website sekolah dibuat dengan framework laravel 8.
 </b></p>
 
 ## Instalasi
-- clone : git clone [https://github.com/rahmathidayat9/laraschool](https://github.com/alfizahratussyita/website-laravel.git)
+- clone : git clone [https://github.com/alfizahratussyita/website-laravel.git]
 
 ## Setup
 - buka direktori project di terminal anda.
